@@ -13,4 +13,4 @@ un análisis para comprobar si realmente este año ha sido hasta ahora el verano
 
 Programado en Jupyter Notebook con Python 
 
-## [Click aquí para verlo desde NBViewer 📌](https://nbviewer.org/github/matuneville/calor-de-verano-argentina/blob/master/project.ipynb)
+## [Click aquí para verlo desde NBViewer 📌](https://nbviewer.org/github/matuneville/calor-de-verano-argentina/blob/master/project-verano.ipynb)
